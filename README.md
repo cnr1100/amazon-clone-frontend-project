@@ -12,7 +12,7 @@ A fully responsive homepage modeled after Amazon India, featuring dynamic produc
 
 ## 🧭 Table of Contents
 
-- [✨ Key Features](#key-features)
+- [✨ Key Features](#-key-features)
 - [📸 Screenshots](#-screenshots)
 - [🛠️ Tech Stack](#-tech-stack)
 - [📦 Setup Instructions](#%EF%B8%8F-setup-instructions)
